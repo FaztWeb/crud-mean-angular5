@@ -1,2 +1,2 @@
-client/node_modules/
-server/node_modules/
+src/client/node_modules/
+src/node_modules/
